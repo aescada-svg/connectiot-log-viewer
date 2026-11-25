@@ -1,7 +1,7 @@
 ﻿
 # ConnectIoT Log Viewer
 
-Real-time FastAPI log viewer for ConnectIoT with `managerId` filtering, alarm rules, and auto-tailing.
+Real-time FastAPI log viewer for ConnectIoT with Manager ID and other filtering capabilties, configurable alarm rules, and auto-tailing.
 
 ## Header
 
